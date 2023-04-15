@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Omar LAOUAN</h1>
 <h3 align="center">A passionate data professional from France 🇫🇷</h3>
 
-- 🔭 I’m currently working on [Automatic carbon footprint calculator](https://github.com/Omarlaouan/Automatic-carbon-footprint-calculator)
+- 🔭 I’m currently working on : [Automatic carbon footprint calculator](https://github.com/Omarlaouan/Automatic-carbon-footprint-calculator)
 
-- 🌱 I’m currently learning **MLOps, LLM**
+- 🌱 I’m currently learning : **MLOps, LLM**
 
-- 📫 How to reach me **lomarfarouk@gmail.com**
+- 📫 How to reach me : **lomarfarouk@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1szpbF5K8N_zeOBQWzCyBw_A-lt05oPbh/view?usp=sharing)
+- 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/1szpbF5K8N_zeOBQWzCyBw_A-lt05oPbh/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
