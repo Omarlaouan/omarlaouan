@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Automatic carbon footprint calculator](https://github.com/Omarlaouan/Automatic-carbon-footprint-calculator)
 
-- 🌱 I’m currently learning **MLOps, LLM**
+- 🌱 I’m currently learning **MLOps, Generative AI**
 
 - 📫 How to reach me **lomarfarouk@gmail.com**
 
