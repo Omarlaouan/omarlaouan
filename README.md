@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar LAOUAN</h1>
-<h3 align="center">A passionate data professional from France 🇫🇷</h3>
+<h3 align="center">A passionate data scientist from France 🇫🇷</h3>
 
 - 🔭 I’m currently working on : [Automatic carbon footprint calculator](https://github.com/Omarlaouan/Automatic-carbon-footprint-calculator)
 
