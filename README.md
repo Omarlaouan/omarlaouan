@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar LAOUAN</h1>
 <h3 align="center">A passionate data scientist</h3>
 
-- 🔭 I’m currently working on : [Automatic carbon footprint calculator](https://github.com/Omarlaouan/Automatic-carbon-footprint-calculator)
-
-- 🌱 I’m currently learning : **MLOps, Auto-GPT.**
+- 🌱 I’m currently learning : **MLOPs**
 
 - 📫 How to reach me : **lomarfarouk@gmail.com**
 
