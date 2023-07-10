@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar LAOUAN</h1>
 <h3 align="center">A passionate data scientist</h3>
 
-- 🌱 I’m currently learning : **MLOPs**
+- 🌱 I’m currently learning : **LLM & MLOPs**
 
 - 📫 How to reach me : **lomarfarouk@gmail.com**
 
