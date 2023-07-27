@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Omar LAOUAN</h1>
-<h3 align="center"><em>I am passionate about data and i love learning</em></h3>
+<h3 align="center"><em>I am passionate about delevering value with data</em></h3>
 
 ### 📚 Projects
 
