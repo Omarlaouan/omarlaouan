@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Omar LAOUAN</h1>
 <h3 align="center"><em>I am passionate about delevering value with data</em></h3>
 
-### 📚 Projects
+### 📚 [Portfolio](https://github.com/Omarlaouan/Portfolio-Guide/tree/main)
 
 Welcome to my GitHub, to view my portfolio, click 👉 [here](https://github.com/Omarlaouan/Portfolio-Guide/tree/main)
 <h3 align="left">Languages and Tools:</h3>
