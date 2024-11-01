@@ -15,7 +15,7 @@ Welcome to my GitHub, to view my portfolio, click 👉 [here](https://github.com
 <br>
 <h3 align="left">Github Stats</h3>
 <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Omarlaouan&theme=highcontrast&card_width=950" alt="GitHub Streak" excludeDaysLabel="Sat"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Omarlaouan&theme=highcontrast&card_width=950&exclude_days=Sat,Sun" alt="GitHub Streak"/>
 </a>
     
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
