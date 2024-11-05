@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Omar LAOUAN</h1>
-<h3 align="center"><em>I am passionate about delivering value with data</em></h3>
+<h3 align="center"><em>I am passionate about creating impactful insights and delivering value through data.</em></h3>
 
 ### 📚 [Portfolio](https://github.com/Omarlaouan/Portfolio-Guide/tree/main)
 
