@@ -14,9 +14,13 @@ Welcome to my GitHub, to view my portfolio, click 👉 [here](https://github.com
 </p>
 <br>
 <h3 align="left">Github Stats</h3>
+<!-- 
 <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Omarlaouan&theme=highcontrast&card_width=950" alt="GitHub Streak"/>
 </a>
+-->
+
+[![GitHub Streak](https://github-readme-streak-stats-pearl-psi.vercel.app?user=Omarlaouan&theme=highcontrast&card_width=1050)](https://git.io/streak-stats)
     
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omarlaouan&theme=high-contrast" alt="GitHub Activity Graph" />
