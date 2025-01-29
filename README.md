@@ -13,16 +13,4 @@ Welcome to my GitHub, to view my portfolio, click 👉 [here](https://github.com
 <a href="https://linkedin.com/in/omar-laouan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-laouan" height="30" width="40" /></a>
 </p>
 <br>
-<h3 align="left">Github Stats</h3>
-<!-- 
-<a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Omarlaouan&theme=highcontrast&card_width=950" alt="GitHub Streak"/>
-</a>
--->
-
-[![GitHub Streak](https://github-readme-streak-stats-pearl-psi.vercel.app?user=Omarlaouan&theme=highcontrast&card_width=1050)](https://git.io/streak-stats)
-    
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omarlaouan&theme=high-contrast" alt="GitHub Activity Graph" />
-</a>
 
